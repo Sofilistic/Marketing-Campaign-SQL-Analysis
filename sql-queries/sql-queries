@@ -1,0 +1,13 @@
+# SQL Queries for Marketing Campaign Analysis
+
+This folder contains all SQL queries used in the analysis. Each file addresses a different business question or insight.
+
+## Query Descriptions:
+
+- `total_impressions.sql` – Total impressions by campaign  
+- `engagement_by_audience.sql` – Average engagement score by target audience  
+- `top_locations.sql` – Top 3 locations with highest engagement  
+- `conversion_rate_by_channel.sql` – Conversion rates across marketing channels  
+
+Each query was run using PostgreSQL and supported the generation of the final insights and recommendations.
+
